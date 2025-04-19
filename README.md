@@ -52,7 +52,7 @@ I believe that the best engineers aren't defined by what they know — but by th
 
 ### 🎮 Outside of Code
 
-- 🧘 Practicing Yoga  
+- 🏋️ Gym 
 - 📖 Reading tech blogs & research papers  
 - 🧑‍🍳 Cooking with creativity  
 - 🕹️ Exploring strategy games & AI agents  
