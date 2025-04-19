@@ -1,49 +1,68 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Ali Ben Alaya</h1>
-<h3 align="center">AI Engineer | Deep Learning Enthusiast | Builder of Intelligent Systems</h3>
+<h3 align="center">AI Engineer | Machine Learning Specialist | Always Learning</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="AI Animation"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="AI GIF"/>
 </p>
 
+---
+
+### 💼 About Me
+
+I'm a Tunisian AI Engineer based in Japan 🇯🇵, with hands-on experience delivering real-world AI solutions across industries. I specialize in building full-stack machine learning systems that go beyond experimentation — from CT scan defect detection and real-time video analysis to vision-language models and LLM-powered dialogue simulations.
+
+> ✨ **"I believe in relentless learning, thoughtful innovation, and building AI that works in the real world."**
+
+With a strong foundation in computer science engineering and a passion for scalable, production-ready systems, I thrive at the intersection of cutting-edge research and applied machine learning.
 
 ---
 
-### 🚀 About Me
+### ⚙️ Technical Skills Snapshot
 
-I'm passionate about developing intelligent systems that leverage deep learning, computer vision, and large language models (LLMs) to solve real-world problems. My expertise lies in building scalable machine learning pipelines, deploying models in production, and continuously exploring the frontiers of AI research.
-
----
-
-### 🧠 Core Competencies
-
-- **Deep Learning Frameworks**: Proficient in both [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/), understanding their unique strengths:
-  - *PyTorch*: Favored for research and rapid prototyping due to its dynamic computation graph and intuitive Pythonic interface.
-  - *TensorFlow*: Ideal for production environments, offering robust deployment tools like TensorFlow Serving and TensorFlow Lite.
-
-- **Computer Vision**: Experienced in implementing state-of-the-art models for image classification, object detection, and pose estimation.
-
-- **Natural Language Processing**: Skilled in building NLP applications using transformers, sentiment analysis, and text generation models.
-
-- **MLOps**: Adept at deploying machine learning models using Docker, Kubernetes, and CI/CD pipelines to ensure scalable and reliable AI solutions.
+**Languages**: Python • Java • SQL • JavaScript  
+**Frameworks**: PyTorch • TensorFlow • FastAPI • Hugging Face • Streamlit  
+**ML & DL**: Transformers • TrOCR • PatchCore • Autoencoders • RF-DETR  
+**MLOps**: Docker • MLflow • Weights & Biases • TGI  
+**Databases**: PostgreSQL • MongoDB • Elasticsearch  
+**NLP/LLMs**: LLaMA • LangChain • LlamaIndex • Financial BERT  
+**CV Tools**: YOLOv • OpenCV  
+**Cloud & Infra**: Docker • Linux • Kubernetes  
 
 ---
 
-### 🛠 Tech Stack
+### 🏆 Highlights
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- 👨‍💻 Built AI pipelines deployed at scale, including one for battery CT scan analysis achieving **98% micro-crack detection precision**.
+- 🧠 Simulated child-like responses using **LLaMA 3 + RAG** for safety-focused dialogue augmentation.
+- 📄 Developed a real-time OCR system for reading faxed documents and outputting Excel files with **95%+ accuracy**.
+- 🌍 Participated and ranked in multiple hackathons:  
+  - 🥇 Earth Hacks (1st Place)  
+  - 🥉 AIHackTunisia (3rd Place)  
+  - 🔍 Hack The Virus (6th Place)
 
 ---
 
-### 📫 Let's Connect
+### 🎯 Personal Philosophy
 
-- [LinkedIn](https://www.linkedin.com/in/mohamedali-benalaya/)
-- [Email](mailto:your.email@example.com)
+I believe that the best engineers aren't defined by what they know — but by their ability to keep learning, questioning, and building. Every project is a chance to grow, challenge assumptions, and solve problems that matter.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Animation"/>
-</p>
+> 📚 **“Stay curious, stay consistent, and always improve.”**
+
+---
+
+### 🎮 Outside of Code
+
+- 🧘 Practicing Yoga  
+- 📖 Reading tech blogs & research papers  
+- 🧑‍🍳 Cooking with creativity  
+- 🕹️ Exploring strategy games & AI agents  
+
+---
+
+### 📬 Let’s Connect
+
+- [🌐 LinkedIn](https://www.linkedin.com/in/mohamedali-benalaya/)
+- [📧 Email](mailto:benalaya.medalidata@gmail.com)
+
+---
+
