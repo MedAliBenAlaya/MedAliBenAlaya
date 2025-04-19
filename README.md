@@ -41,8 +41,8 @@ I'm passionate about developing intelligent systems that leverage deep learning,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedali-benalaya&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedali-benalaya&layout=compact&theme=radical" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MedAliBenAlaya&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAliBenAlaya&layout=compact&theme=radical" width="380"/>
 </p>
 
 ---
