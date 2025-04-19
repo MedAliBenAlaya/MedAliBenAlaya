@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="AI GIF"/>
 </p>
 
----
 
 ### 💼 About Me
 
@@ -14,8 +13,6 @@ I'm a Tunisian AI Engineer based in Japan 🇯🇵, with hands-on experience del
 > ✨ **"I believe in relentless learning, thoughtful innovation, and building AI that works in the real world."**
 
 With a strong foundation in computer science engineering and a passion for scalable, production-ready systems, I thrive at the intersection of cutting-edge research and applied machine learning.
-
----
 
 ### ⚙️ Technical Skills Snapshot
 
@@ -28,7 +25,6 @@ With a strong foundation in computer science engineering and a passion for scala
 **CV Tools**: YOLOv • OpenCV  
 **Cloud & Infra**: Docker • Linux • Kubernetes  
 
----
 
 ### 🏆 Highlights
 
@@ -40,15 +36,12 @@ With a strong foundation in computer science engineering and a passion for scala
   - 🥉 AIHackTunisia (3rd Place)  
   - 🔍 Hack The Virus (6th Place)
 
----
 
 ### 🎯 Personal Philosophy
 
 I believe that the best engineers aren't defined by what they know — but by their ability to keep learning, questioning, and building. Every project is a chance to grow, challenge assumptions, and solve problems that matter.
 
 > 📚 **“Stay curious, stay consistent, and always improve.”**
-
----
 
 ### 🎮 Outside of Code
 
@@ -57,12 +50,8 @@ I believe that the best engineers aren't defined by what they know — but by th
 - 🧑‍🍳 Cooking with creativity  
 - 🕹️ Exploring strategy games & AI agents  
 
----
-
 ### 📬 Let’s Connect
 
 - [🌐 LinkedIn](https://www.linkedin.com/in/mohamedali-benalaya/)
 - [📧 Email](mailto:benalaya.medalidata@gmail.com)
-
----
 
