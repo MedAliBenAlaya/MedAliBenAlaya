@@ -2,8 +2,9 @@
 <h3 align="center">AI Engineer | Deep Learning Enthusiast | Builder of Intelligent Systems</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="AI Animation](https://giphy.com/gifs/Smolverse-pixel-art-smol-smolverse-g2jj9VAIBluIreVNsb)"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="AI Animation"/>
 </p>
+
 
 ---
 
