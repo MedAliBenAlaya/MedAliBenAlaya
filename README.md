@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-I'm a Tunisian AI Engineer based in Japan 🇯🇵, with hands-on experience delivering real-world AI solutions across industries. I specialize in building full-stack machine learning systems that go beyond experimentation — from CT scan defect detection and real-time video analysis to vision-language models and LLM-powered dialogue simulations.
+I'm a Tunisian AI Engineer based in Japan 🇯🇵, with hands-on experience delivering real-world AI solutions across industries. I specialize in building full-stack machine learning systems that go beyond experimentation.
 
 > ✨ **"I believe in relentless learning, thoughtful innovation, and building AI that works in the real world."**
 
