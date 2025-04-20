@@ -23,7 +23,7 @@ With a strong foundation in computer science engineering and a passion for scala
 **Databases**: PostgreSQL • MongoDB • Elasticsearch  
 **NLP/LLMs**: LLaMA • LangChain • LlamaIndex • Financial BERT  
 **CV Tools**: YOLOv • OpenCV  
-**Cloud & Infra**: Docker • Linux • Kubernetes  
+**Cloud & Infra**: Docker • Linux  
 
 
 ### 🏆 Highlights
