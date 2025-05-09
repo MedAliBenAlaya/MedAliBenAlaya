@@ -45,7 +45,7 @@ I believe that the best engineers aren't defined by what they know — but by th
 
 ### 📈 Contribution Activity Graph
 
-[![Mohamed Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MedAliBenAlaya&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedAliBenAlaya&show_icons=true&count_private=true&include_all_commits=true)
 
 
 ### 🎮 Outside of Code
