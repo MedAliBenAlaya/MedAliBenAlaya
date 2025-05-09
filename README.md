@@ -43,6 +43,11 @@ I believe that the best engineers aren't defined by what they know — but by th
 
 > 📚 **“Stay curious, stay consistent, and always improve.”**
 
+### 📈 Contribution Activity Graph
+
+[![Mohamed Ali's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=benalaya&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 ### 🎮 Outside of Code
 
 - 🏋️ Gym 
