@@ -50,6 +50,16 @@ I believe that the best engineers aren't defined by what they know — but by th
 - 🧑‍🍳 Cooking with creativity  
 - 🕹️ Exploring strategy games & AI agents  
 
+### 📊 GitHub Activity Graph
+
+[![Mohamed Ali's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=benalaya&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### ⚡ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benalaya&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benalaya&layout=compact&theme=default)
+
+
 ### 📬 Let’s Connect
 
 - [🌐 LinkedIn](https://www.linkedin.com/in/mohamedali-benalaya/)
