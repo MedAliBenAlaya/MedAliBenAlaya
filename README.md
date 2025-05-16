@@ -6,7 +6,7 @@
 </p>
 
 
-### 💼 About Me
+###  About Me
 
 I'm a Tunisian AI Engineer based in Japan 🇯🇵, with hands-on experience delivering real-world AI solutions across industries. I specialize in building full-stack machine learning systems that go beyond experimentation.
 
